@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:e_farm/core/app_export.dart';
 import 'package:e_farm/widgets/custom_elevated_button.dart';
 import 'package:e_farm/widgets/custom_text_form_field.dart';
